@@ -1,0 +1,11 @@
+{
+  "org": "rq",
+  "repo": "rq-scheduler",
+  "versions": [
+    {
+      "commit": "134c2eb1b8c65510bc1b8fdfdbe787decef890f2",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:29:03.304085+00:00"
+    }
+  ]
+}
