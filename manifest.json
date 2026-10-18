@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "rq",
+  "repo": "rq-scheduler",
+  "versions": [
+    {
+      "commit": "134c2eb1b8c65510bc1b8fdfdbe787decef890f2",
+      "parsed_at": "2026-10-18T06:26:46.109424+00:00",
+      "filetree": "filetree/134c2eb1b8c65510bc1b8fdfdbe787decef890f2.nq.gz",
+      "blobs": [
+        "blob/9a3128ac658591a2f72dacc9b845647588c12b65.nq.gz",
+        "blob/9b22f338b4d0a3f8a7d1e731cad2439565a4cc1b.nq.gz",
+        "blob/da9c516dd744b6c88dd8c91f58f7bcf8f7e8341b.nq.gz",
+        "blob/c6b38618ee3c9689def2dcbdf8898cab350c65a4.nq.gz",
+        "blob/c34ab026b18f3bd2c489f28484ebe536493aeb2d.nq.gz",
+        "blob/1f007267fa44ca2c9ba455a82c0f57287b8cf861.nq.gz",
+        "blob/f58cb0df067d711a55dfb1b7d8d38ac2a2213ec4.nq.gz",
+        "blob/3d3d36a5402381b48c70e21c3d62dfe91f408e48.nq.gz",
+        "blob/67ec320eb5eda6efb696ff74418128f2b80fe8b7.nq.gz",
+        "blob/803ec5cfd1d026e6e7115554eb251968cd031ff0.nq.gz",
+        "blob/a4108788d319bd6691fb6123689f0923601f214d.nq.gz",
+        "blob/2eede86b8952a6b9e214497231495b489bafa480.nq.gz",
+        "blob/3c18376c88d96118310ee56848fbc37484f88b04.nq.gz",
+        "blob/3971d066725760c6b3b978c60620503e429783fb.nq.gz",
+        "blob/4bb40d8047f2405975c65cc1ef53ca8667e11ee1.nq.gz",
+        "blob/0a8df87af1cba513e357c847bdd62decd5e35800.nq.gz",
+        "blob/25a18fae18b9f70f2e0d0a2a85f879529f15b090.nq.gz",
+        "blob/19598d9d677eb4ad419f236f96117e1fc6200313.nq.gz",
+        "blob/3ba6f05a20dbb07d5a5573b6a1703102271ff658.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2eb77cf039b33d6be8955d6ef6b04b3f53b0971d.nq.gz",
+        "blob/e0ee78573f38864207e59dcabbbf6c2b5cb163ab.nq.gz",
+        "blob/f130bd08e5c17413daff4de722e1a040381bba01.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
