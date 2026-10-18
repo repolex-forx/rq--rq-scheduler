@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rq/rq-scheduler/commit/134c2eb1b8c65510bc1b8fdfdbe787decef890f2",
       "git:hexsha": "134c2eb1b8c65510bc1b8fdfdbe787decef890f2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rq/rq-scheduler/commit/100d23b72e9bb48ead94f0d2ba72bdde9323e57f",
